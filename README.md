@@ -5,8 +5,8 @@ power. The game incorporates realistic physics to simulate ball movement, includ
 bounces, and friction, enhancing the player's experience. Additional features such as score tracking,
 level progression, and varying difficulty levels
 Game Features:
-• Intuitive Controls: Simple drag-and-release mechanics for easy aiming.
-• Score Tracking and Leaderboards: Track scores and compete against friends.
-• Progressive Difficulty: Levels increase in complexity for all skill levels.
-• Replayability: Various paths encourage trying different strategies.
-• Sound and Music: Engaging sound effects and light background music.
+• Intuitive Controls
+• Score Tracking and Leaderboards
+• Progressive Difficulty
+• Replayability
+• Sound and Music
